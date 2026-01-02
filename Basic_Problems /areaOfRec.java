@@ -1,7 +1,7 @@
 
 //Find Area of Circle 
 import java.util.Scanner;
-public class areaOfCircle{
+public class areaOfRec{
   public static void main(String[]args){
     Scanner sc = new Scanner(System.in);
     

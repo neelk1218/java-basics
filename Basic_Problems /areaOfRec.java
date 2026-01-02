@@ -1,5 +1,5 @@
 
-//Find Area of Circle 
+//Find Area of Rectangle
 import java.util.Scanner;
 public class areaOfRec{
   public static void main(String[]args){

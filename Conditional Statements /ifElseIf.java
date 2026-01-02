@@ -1,6 +1,6 @@
 //exaple:- Comapring 4 numbers
 import java.util.Scanner;
-public class Main{
+public class ifElseIf{
   public static void main(String[]args){
     int a = 8;
     int b = 21;
